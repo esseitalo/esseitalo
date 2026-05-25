@@ -1,16 +1,29 @@
-## Hi there 👋
+# Ítalo Silva Pinto
 
-<!--
-**esseitalo/esseitalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://www.linkedin.com/in/italosilvapinto/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-italosilvapinto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou **Ítalo Silva Pinto**, profissional de tecnologia focado em construir soluções com qualidade, aprendizado contínuo e colaboração.
+
+Se quiser conhecer minha trajetória completa, experiências e atualizações profissionais, acesse meu perfil no LinkedIn:
+
+🔗 **https://www.linkedin.com/in/italosilvapinto/**
+
+## 🚀 O que você encontra aqui
+
+Neste perfil do GitHub, compartilho projetos e estudos com foco em:
+
+- Desenvolvimento de software
+- Boas práticas de código
+- Evolução técnica contínua
+
+## 🤝 Vamos conectar
+
+Estou aberto a networking, trocas de conhecimento e oportunidades profissionais.
+
+- LinkedIn: [linkedin.com/in/italosilvapinto](https://www.linkedin.com/in/italosilvapinto/)
